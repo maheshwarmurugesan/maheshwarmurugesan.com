@@ -766,7 +766,7 @@ export default function A16ZPage() {
                   lineHeight: 1.6,
                 }}
               >
-                You made hyperlinks blue.
+                Andreessen Horowitz made hyperlinks blue. I&apos;ll honor that.
               </p>
             </div>
           </div>
