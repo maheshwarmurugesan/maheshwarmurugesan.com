@@ -57,9 +57,9 @@ const stack = [
   {
     name: "AIDA",
     url: "https://www.knowbe4.com/products/aida",
-    tag: "Pen Testing",
-    desc: "AI Defense Agents from KnowBe4. Suite of AI-powered agents for pen testing and phishing simulation. Generates realistic attack vectors, custom deepfake training content, and personalized security awareness campaigns tailored to each employee\u2019s risk profile.",
-    use: "Portco security teams can run continuous AI-generated pen tests and phishing simulations personalized per employee.",
+    tag: "Security",
+    desc: "AI Defense Agents from KnowBe4. Suite of AI-powered agents for phishing simulation and security awareness training. Generates realistic attack vectors, custom deepfake training content, and personalized security awareness campaigns tailored to each employee\u2019s risk profile.",
+    use: "Portco security teams can run continuous AI-generated phishing simulations and awareness training personalized per employee.",
   },
   {
     name: "Exo",
